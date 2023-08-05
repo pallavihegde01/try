@@ -1,0 +1,40 @@
+body {
+    background-image: url(https://img.freepik.com/free-vector/blurred-bokeh-pattern-wallpaper-soft-touch-your-walls_1017-43483.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.title{
+text-align: center;
+color: #202072e8;
+}
+a:link{
+    color: blue;
+    font-style:italic;
+}
+a:visited{
+    color:purple;
+}
+a:hover{
+    color:green;
+}
+.title:hover{
+    color: darkmagenta;
+}
+.btn1{
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+}
+.btn1:hover{
+    background-color: black;
+    color:white;
+}
+.btn2{
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+}
+.btn2:hover{
+    background-color: black;
+    color:white;
+}
